@@ -1,0 +1,16 @@
+[
+  {
+    "key": "ctrl+r",
+    "command": "workbench.action.reloadWindow",
+    "when": "isDevelopment"
+  },
+  {
+    "key": "ctrl+r",
+    "command": "-workbench.action.reloadWindow",
+    "when": "isDevelopment"
+  },
+  {
+    "key": "ctrl+alt+z",
+    "command": "editor.emmet.action.incrementNumberByOne"
+  }
+]

@@ -1,0 +1,83 @@
+{
+  "files.associations": {
+    "*.js": "javascriptreact"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.menuBarVisibility": "default",
+  "window.restoreWindows": "all",
+  "debug.showInStatusBar": "always",
+  "workbench.sideBar.location": "left",
+  "workbench.settings.openDefaultKeybindings": true,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "terminal.explorerKind": "integrated",
+  "workbench.startupEditor": "welcomePage",
+  "workbench.colorCustomizations": {
+    "editor.foreground": "#008dff"
+  },
+  "editor.tokenColorCustomizations": {
+    "strings": "#7b68ee",
+    "variables": "#40e0ff",
+    "comments": "#349131",
+    "textMateRules": []
+  },
+  "workbench.editor.tabSizing": "shrink",
+  "editor.formatOnSave": true,
+  "extensions.showRecommendationsOnlyOnDemand": false,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "javascript": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "editor.columnSelection": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "projectManager.git.baseFolders": [
+    "C:\\Users\\754guest1\\Downloads\\P5",
+    "C:\\Users\\pwool\\Downloads\\P5"
+  ],
+  "git.autofetch": true,
+  "update.mode": "start",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "git.enableSmartCommit": true,
+  "editor.largeFileOptimizations": false,
+  "workbench.editor.untitled.hint": "hidden",
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "terminal.external.windowsExec": "cmd.exe",
+  "terminal.integrated.allowMnemonics": true,
+  "terminal.integrated.defaultProfile.windows": "C:\\Windows\\System32\\cmd.exe (migrated)",
+  "terminal.integrated.rightClickBehavior": "default",
+  "explorer.incrementalNaming": "smart",
+  "explorer.sortOrder": "type",
+  "remote.downloadExtensionsLocally": true,
+  "npm-intellisense.importLinebreak": ";",
+  "npm-intellisense.scanDevDependencies": true,
+  "git.alwaysShowStagedChangesResourceGroup": true,
+  "git.fetchOnPull": true,
+  "git.postCommitCommand": "push",
+  "git.showPushSuccessNotification": true,
+  "workbench.colorTheme": "FlatUI Dark",
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.profiles.windows": {
+    "C:\\Windows\\System32\\cmd.exe (migrated)": {
+      "path": "C:\\Windows\\System32\\cmd.exe",
+      "args": []
+    }
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "gitlens.advanced.messages": {
+    "suppressGitMissingWarning": true
+  },
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "editor.minimap.enabled": false
+}
